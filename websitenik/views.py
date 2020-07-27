@@ -144,6 +144,7 @@ def phrase(request):
         'cate': phrase1,   
         'img1' : phr['articles'][0]['urlToImage'],
         # Adding just for git
+        # adding another one for git
         'img2' : phr['articles'][1]['urlToImage'],
         'img3' : phr['articles'][2]['urlToImage'],
         'img4' : phr['articles'][3]['urlToImage'],
