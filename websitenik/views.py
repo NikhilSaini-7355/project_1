@@ -200,7 +200,7 @@ def criteria(request,cate):
     return render(request,'gel.html',context)
 
 def miscel1(request):
-    return render(request,'pel.html')
+    return render(request,'pel.html') 
 
 def miscel(request):
     #print('hello')
